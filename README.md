@@ -64,13 +64,13 @@
 <p align="left">
   Aplicación web para una barbería, desplegada en Vercel.<br>
   <a href="https://barberia-proyecto-iikozl8s3-edson-leons-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Barbería"/></a>
-  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-BARBERIA"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
+  <a href="https://github.com/EdsoonLeon/Barberia-Proyecto.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
 </p>
 
 <h3>🐾 CuatroPatas</h3>
 <p align="left">
   Aplicación web para una clínica veterinaria con Spring Boot y Angular.<br>
-  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-CUATROPATAS"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código CuatroPatas"/></a>
+  <a href="https://github.com/EdsoonLeon/api-vet-v1.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código CuatroPatas"/></a>
 </p>
 
 <h2>GitHub :octocat:</h2>
