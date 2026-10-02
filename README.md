@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=220&section=header&text=Edson%20Contreras%20Le%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=62&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=250&section=header&text=Edson%20Contreras%20Le%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=62&descSize=18&animation=twinkling" />
 </p>
 
 <!-- Texto animado -->
@@ -85,6 +85,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdsoonLeon&theme=onedark&row=1&column=7&margin-w=5&no-bg=true" />
 </p>
 
+<!-- Pie -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=120&section=footer&animation=twinkling" />
 </p>
