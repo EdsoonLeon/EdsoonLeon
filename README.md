@@ -21,11 +21,34 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
+<h3>Lenguajes</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,cs,kotlin,js,ts,html,css&perline=12" />
+  </a>
+</p>
+
+<h3>Frameworks y librerías</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,react,vite,angular,androidstudio&perline=12" />
+  </a>
+</p>
+
+<h3>Bases de datos</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=12" />
+  </a>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h3>Herramientas</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,intellij,visualstudio&perline=12" />
   </a>
 </p>
 <br>
