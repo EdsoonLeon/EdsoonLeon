@@ -1,25 +1,29 @@
-<h1 align="center">Hola 👋  soy Edson Contreras León / Estudiante de informatica de 6to ciclo ✨ </h1> 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Edson%20Contreras%20Le%C3%B3n&fontSize=42&fontAlignY=38&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=58" />
+</p>
+
+<!-- Texto animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+soy+Edson;Estudiante+de+6to+ciclo+en+Cibertec;Me+apasiona+el+Backend+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Angular+%7C+React" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/edwin-edson-contreras-leon-695a60384/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/EdsonContrerasLeon98" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:edsonleon998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=EdsoonLeon&color=blue&style=for-the-badge&label=VISITAS" alt="Visitas"/>
+</p>
+
+<h2>Sobre mí 😃</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/edwin-edson-contreras-leon-695a60384/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://www.facebook.com/EdsonContrerasLeon98" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 ESTUDIANTE DE INFORMÁTICA
-
-
-💻 CUENTO CON EXPERIENCIA CON PROYECTOS PERSONALES 
-
-📝 APACIONADO POR LA TEGNOLOGIA, ME GUSTA MAS LA PARTE DEL BACKED ☺️
-
-📫 Contacto: **edsonleon998@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
+🎓 Estudiante de Desarrollo de Software en Cibertec (6to ciclo), Lima, Perú<br><br>
+💻 Experiencia en proyectos personales y académicos con Java, C# y JavaScript<br><br>
+⚙️ Apasionado por la tecnología, me gusta más la parte del <b>backend</b><br><br>
+🚀 Disponible para realizar prácticas pre-profesionales<br><br>
+📫 Contacto: <b>edsonleon998@gmail.com</b>
+</p>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 
@@ -42,7 +46,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=12" />
   </a>
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 <h3>Herramientas</h3>
@@ -51,50 +55,29 @@
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,visualstudio&perline=12" />
   </a>
 </p>
-<br>
-<!-------------------------->
-  
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
 
+<h2>Proyectos destacados 🚀</h2>
+<p align="left">
+  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsoonLeon&repo=NOMBRE-DEL-REPO&theme=radical" />
+  </a>
+  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsoonLeon&repo=NOMBRE-DEL-REPO-2&theme=radical" />
+  </a>
+</p>
 
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsoonLeon&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsoonLeon&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EdsoonLeon&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EdsoonLeon&theme=radical&row=1&column=7&margin-w=5&no-bg=true" />
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
