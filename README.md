@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Edson%20Contreras%20Le%C3%B3n&fontSize=42&fontAlignY=38&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=220&section=header&text=Edson%20Contreras%20Le%C3%B3n&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Estudiante%20de%20Desarrollo%20de%20Software&descAlignY=62&descSize=18" />
 </p>
 
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+soy+Edson;Estudiante+de+6to+ciclo+en+Cibertec;Me+apasiona+el+Backend+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Angular+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hola+%F0%9F%91%8B+soy+Edson;Estudiante+de+6to+ciclo+en+Cibertec;Me+apasiona+el+Backend+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Angular+%7C+React" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/edwin-edson-contreras-leon-695a60384/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/EdsonContrerasLeon98" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:edsonleon998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=EdsoonLeon&color=blue&style=for-the-badge&label=VISITAS" alt="Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=EdsoonLeon&color=00D9F5&style=for-the-badge&label=VISITAS" alt="Visitas"/>
 </p>
 
 <h2>Sobre mí 😃</h2>
@@ -64,27 +64,27 @@
 <p align="left">
   Aplicación web para una barbería, desplegada en Vercel.<br>
   <a href="https://barberia-proyecto-iikozl8s3-edson-leons-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Barbería"/></a>
-  <a href="https://github.com/EdsoonLeon/Barberia-Proyecto.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
+  <a href="https://github.com/EdsoonLeon/Barberia-Proyecto"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
 </p>
 
 <h3>🐾 CuatroPatas</h3>
 <p align="left">
   Aplicación web para una clínica veterinaria con Spring Boot y Angular.<br>
-  <a href="https://github.com/EdsoonLeon/api-vet-v1.git"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código CuatroPatas"/></a>
+  <a href="https://github.com/EdsoonLeon/api-vet-v1"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código CuatroPatas"/></a>
 </p>
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdsoonLeon&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsoonLeon&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdsoonLeon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00D9F5&text_color=FFFFFF&ring_color=8A2BE2" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsoonLeon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" height="170" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EdsoonLeon&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=EdsoonLeon&hide_border=true&background=0D1117&ring=00F5A0&fire=8A2BE2&currStreakLabel=00D9F5&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EdsoonLeon&theme=radical&row=1&column=7&margin-w=5&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EdsoonLeon&theme=onedark&row=1&column=7&margin-w=5&no-bg=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:8A2BE2&height=100&section=footer" />
 </p>
