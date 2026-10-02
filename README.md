@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://edsonleonportafolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/></a>
   <a href="https://www.linkedin.com/in/edwin-edson-contreras-leon-695a60384/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/EdsonContrerasLeon98" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:edsonleon998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -22,6 +23,7 @@
 💻 Experiencia en proyectos personales y académicos con Java, C# y JavaScript<br><br>
 ⚙️ Apasionado por la tecnología, me gusta más la parte del <b>backend</b><br><br>
 🚀 Disponible para realizar prácticas pre-profesionales<br><br>
+🌐 Portafolio: <a href="https://edsonleonportafolio.vercel.app/">edsonleonportafolio.vercel.app</a><br><br>
 📫 Contacto: <b>edsonleon998@gmail.com</b>
 </p>
 
@@ -52,18 +54,23 @@
 <h3>Herramientas</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,visualstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,visualstudio,vercel&perline=12" />
   </a>
 </p>
 
 <h2>Proyectos destacados 🚀</h2>
+
+<h3>💈 Barbería</h3>
 <p align="left">
-  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsoonLeon&repo=NOMBRE-DEL-REPO&theme=radical" />
-  </a>
-  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdsoonLeon&repo=NOMBRE-DEL-REPO-2&theme=radical" />
-  </a>
+  Aplicación web para una barbería, desplegada en Vercel.<br>
+  <a href="https://barberia-proyecto-iikozl8s3-edson-leons-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Barbería"/></a>
+  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-BARBERIA"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
+</p>
+
+<h3>🐾 CuatroPatas</h3>
+<p align="left">
+  Aplicación web para una clínica veterinaria con Spring Boot y Angular.<br>
+  <a href="https://github.com/EdsoonLeon/NOMBRE-DEL-REPO-CUATROPATAS"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código CuatroPatas"/></a>
 </p>
 
 <h2>GitHub :octocat:</h2>
