@@ -63,7 +63,7 @@
 <h3>💈 Barbería</h3>
 <p align="left">
   Aplicación web para una barbería, desplegada en Vercel.<br>
-  <a href="https://barberia-proyecto-iikozl8s3-edson-leons-projects.vercel.app/"><img src="https://img.shields.io/badge/Ver%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Barbería"/></a>
+  <a href="https://barberia-proyecto.vercel.app/"><img src="https://img.shields.io/badge/Ver%20demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Barbería"/></a>
   <a href="https://github.com/EdsoonLeon/Barberia-Proyecto"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código Barbería"/></a>
 </p>
 
